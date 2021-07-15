@@ -80,3 +80,31 @@ $ git log -2 # 최근 n개의 로그만 확인
 $ git log --oneline -2 # 한줄로 최근 n개만
 ```
 
+
+
+상대경로 / 절대경로
+
+```bash
+$ git remote add origin 'https://github.com/Dino3150/TIL-jjc.git/'
+```
+
+
+
+git - DVCS
+
+1. 프로젝트 저장소 만들 때
+
+   git inti
+
+2. 작업 -> 버전 기록
+
+    git add 파일/폴더
+
+   git commit  -m ' ---- '
+
+3. 원격저장소 올리기
+
+   git push origin master
+
+   지정 x  
+
