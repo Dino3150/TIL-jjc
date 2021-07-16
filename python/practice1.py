@@ -8,3 +8,4 @@ print(type(number))
 string = '문자열'
 print(type(string))
 
+print(names[0])
