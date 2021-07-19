@@ -10,7 +10,7 @@ resp = requests.get(url).json()
 
 # chat_id
 chat_id = resp['result'][0]['message']['chat']['id']
-
+print(chat_id)
 # 날씨
 weather = 'https://www.metaweather.com/api/location/1132599/'
 
