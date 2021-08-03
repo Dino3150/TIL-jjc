@@ -1,34 +1,19 @@
-#  Web 라이브 강의
+# 2021-08-03
 
-> A반 Web 수업 라이브 강의 자료 공유
 
-## 활용법
 
-* 본 저장소의 파일을 **직접적으로 수정 하지 마세요.**
-* 라이브 수업이 끝난 후 활용되었던 파일이 업로드 되니 참고 바랍니다.
+### Today's coding
 
-## 내용
 
-| 일자 |         내용          |
-| :--: | :-------------------: |
-| day1 |      HTML / CSS       |
-| day2 | Grid / Responsive Web |
 
-## 명령어 안내
+### 
 
-### clone
+#### 1. (python)이스케이프 시퀀스(escape sequence)
 
-> 최초에 한번 본 원격 저장소를 복제하기 위해 사용합니다.
+![캡처](README/%EC%BA%A1%EC%B2%98.JPG)
 
-```bash
-$ git clone https://lab.ssafy.com/06/class-a/web
-```
 
-### pull
 
-> 본 저장소에 업데이트가 된 내용을 받아오기 위해 사용합니다.
+#### 2. (HTML + CSS) margin 사용법 "margin: -4px;"
 
-```bash
-$ git pull origin master
-```
-
+margin을 음수값을 적음으로써 요소를 서로 겹치게 할 수 있다.
