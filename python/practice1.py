@@ -1,9 +1,20 @@
 
+
 a = 0
-b = 0
+b = 1
+def enclosed():
+    a = 10
+    c = 3
+    def local(c):
+        print(a, b, c)
+    local(300)
+    print(a, b, c)
+enclosed()
+print(a, b)
 
-a =+ 1
-print(a)
 
-b += 6
-print(b)
+print(sum)
+print(sum(range(2)))
+sum = 5
+print(sum)
+print(sum(range(2)))
